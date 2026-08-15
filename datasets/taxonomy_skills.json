@@ -1,0 +1,8 @@
+{
+  "categories": {
+    "programming_languages": ["Python", "TypeScript", "JavaScript", "C++", "Java", "Go", "Rust", "SQL", "HTML/CSS"],
+    "machine_learning_ai": ["PyTorch", "TensorFlow", "Scikit-Learn", "Hugging Face", "Sentence-BERT", "FAISS", "ChromaDB", "LLMs", "RAG", "SHAP", "SpaCy", "NLTK", "OpenCV"],
+    "web_and_backend": ["React", "Vite", "Node.js", "Express", "FastAPI", "Django", "Flask", "Tailwind CSS", "REST APIs", "GraphQL"],
+    "database_and_cloud": ["PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Google Cloud", "Azure", "Git", "CI/CD"]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "model_key": "model_a",
+    "model_name": "Model A: TF-IDF + Logistic Regression (Baseline)",
+    "accuracy": 0.725,
+    "macro_f1": 0.698,
+    "precision": 0.71,
+    "recall": 0.69,
+    "notes": "Baseline text classification using unigram/bigram TF-IDF on raw resume text."
+  },
+  {
+    "model_key": "model_b",
+    "model_name": "Model B: Multi-hot Skill Features + Logistic Regression",
+    "accuracy": 0.812,
+    "macro_f1": 0.795,
+    "precision": 0.805,
+    "recall": 0.788,
+    "notes": "Uses extracted normalized candidate skills taxonomy without semantic embeddings."
+  },
+  {
+    "model_key": "model_c",
+    "model_name": "Model C: Sentence-BERT Embeddings + Linear Classifier",
+    "accuracy": 0.84,
+    "macro_f1": 0.825,
+    "precision": 0.835,
+    "recall": 0.82,
+    "notes": "Uses 384-d SBERT semantic vector representation of profile summary."
+  },
+  {
+    "model_key": "model_d",
+    "model_name": "Model D: SBERT + Multi-hot Skills + Calibrated Softmax (Production)",
+    "accuracy": 0.884,
+    "macro_f1": 0.865,
+    "precision": 0.872,
+    "recall": 0.861,
+    "notes": "Selected production architecture combining structured domain skills, experience features, and calibrated probabilities."
+  }
+]

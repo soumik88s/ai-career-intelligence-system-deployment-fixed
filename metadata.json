@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Intelligence System",
+  "description": "Explainable AI-Based Career Recommendation and Job Matching Using NLP, Deep Learning, and RAG",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

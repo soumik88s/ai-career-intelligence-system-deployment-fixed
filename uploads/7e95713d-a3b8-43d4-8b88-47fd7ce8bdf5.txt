@@ -1,0 +1,41 @@
+
+SUMMARY
+Experienced Full Stack Software Engineer and Machine Learning Researcher with expertise in building scalable web applications and AI models.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, SQL, C++
+Frameworks & Libraries: React, Node.js, Express.js, FastAPI, Django, PyTorch, Scikit-learn, Tailwind CSS
+Databases: PostgreSQL, MongoDB, Redis
+Cloud & DevOps: AWS, Docker, Kubernetes, Git, CI/CD
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University (2022 - 2024)
+CGPA: 3.9/4.0
+
+Bachelor of Technology in Information Technology
+Indian Institute of Technology (2018 - 2022)
+Score: 8.8/10.0
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer
+TechCorp Systems (Jan 2024 - Present)
+- Designed and deployed NLP models using PyTorch and FastAPI on AWS EC2.
+- Optimized PostgreSQL database queries, reducing response times by 40%.
+
+Software Engineering Intern
+Innovate Analytics (Jun 2023 - Dec 2023)
+- Built interactive frontend dashboards using React, TypeScript, and Tailwind CSS.
+- Developed backend microservices with Express.js and MongoDB.
+
+PROJECTS
+Career Intelligence AI Platform
+- Built end-to-end resume parser and job matching engine using Python, FastAPI, React, and PostgreSQL.
+- Technologies: Python, FastAPI, React, PostgreSQL, Docker
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate
+Amazon Web Services (2023)
+
+Meta Front-End Developer Professional Certificate
+Coursera / Meta (2022)
